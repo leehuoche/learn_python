@@ -1,1 +1,0 @@
-﻿days="Mon Tue Wed Thu Fri Sat Sun"month="Jan \n Feb \n Mar\nApr\nMay\nJun\nJul\nAug"print "here are the days:",daysprint "here are the months:",monthprint """there's something going on hereWith the three double-quotes.we'll be able to type as much as we likeeven 4 lines if we want,or 5,"""#notes: \n  是换行符  

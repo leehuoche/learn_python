@@ -1,1 +1,0 @@
-﻿def ch_and_cr(ch_count,box_of_cr):	print "you have %d ch" %ch_count	print "you have %d cr" %box_of_cr	print "get start,\n "		ch_and_cr(20,30)a_of_ch=50a_of_cr=90ch_and_cr(a_of_ch,a_of_cr)ch_and_cr(20+8,a_of_cr-8)

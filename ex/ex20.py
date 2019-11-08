@@ -1,1 +1,0 @@
-﻿from sys import argv	script,input_file=argvdef print_all(f):	print f.read()		def rewind(f):	f.seek(0)		def print_a_line(line_count,f):	print line_count,f.readline()		cur_file=open(input_file)print "print all "print_all(cur_file)print "rewind a file"rewind(cur_file)print "one line"print_a_line(1,cur_file)print_a_line(2,cur_file)

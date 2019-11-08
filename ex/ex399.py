@@ -1,1 +1,0 @@
-﻿# creat a mapping of state to abbreviationstates=[    'oregon':'OR',    'florida':'FL',    'california':'CA',    'new york':'NY',    'michigan':'MI']cites=[    'CA':'san francisco',    'MI':'detroit',    'FL','jacksonville']cites['NY']='new york'cites['OR']='portland'print "-"*18print "NY state has: ",cites['NY']print "OR state has: ",cites['OR']
