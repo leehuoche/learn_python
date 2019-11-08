@@ -1,0 +1,1 @@
+﻿people=30car=40bus=15if car>people:	print "we should take car"elif car<people:	print "we not take car"else:	print "we can't decide"	if bus<car:	print "that's too many bus"elif bus>car:	print "maybe we should take the bus"else:	print "we can't decide"	if people>bus:	print "it's bus"else:	print "stay home "	
