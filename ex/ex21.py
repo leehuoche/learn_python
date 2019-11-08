@@ -1,0 +1,1 @@
+﻿def divide(a,b):	return a/b				print "the int is %d" %divide(6,3)

@@ -1,0 +1,1 @@
+﻿people=20cat=30dog=15if people<cat:	print "too many cats"		if people>cat:	print "not many cats"if people>dog:	print "too many people"		dog+=5if people==dog:	print "people are dog"	
