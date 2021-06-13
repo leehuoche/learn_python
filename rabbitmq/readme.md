@@ -26,3 +26,5 @@ connection = pika.BlockingConnection(
 ## FAQs
 
 1. rabbitmq中，guest是默认用户，拥有管理员权限，但是只允许使用`localhost`登陆。如果需要使用外界的浏览器登陆，需要再[创建一个管理员账户](https://www.cnblogs.com/gongshun/p/10694659.html)。
+2. [常见面试题](https://www.cnblogs.com/lanshengyougu/p/13953990.html)
+
